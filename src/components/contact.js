@@ -24,7 +24,7 @@ class Contact extends Component {
                             <List>
 
                                 <ListItem>
-                                    <ListItemContent style={{fontSize: '25px', fontFamily: 'Anton'}}>
+                                    <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                                         <i className="fa fa-phone-square" aria-hidden="true"/>
                                         (305) 123-4567
                                     </ListItemContent>
@@ -32,14 +32,14 @@ class Contact extends Component {
                                 
 
                                 <ListItem>
-                                    <ListItemContent style={{fontSize: '25px', fontFamily: 'Anton'}}>
+                                    <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                                         <i className="fa fa-envelope" aria-hidden="true"/>
                                         Email@email.com
                                     </ListItemContent>
                                 </ListItem>
 
                                 <ListItem>
-                                    <ListItemContent style={{fontSize: '25px', fontFamily: 'Anton'}}>
+                                    <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                                         <i className="fa fa-skype" aria-hidden="true"/>
                                         SkypeID
                                     </ListItemContent>
