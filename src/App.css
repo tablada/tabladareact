@@ -97,3 +97,9 @@
   width: 50%;
   margin: auto;
 }
+
+.contact-list i {
+  font-size: 66px;
+  padding-right: 5em;
+
+}
