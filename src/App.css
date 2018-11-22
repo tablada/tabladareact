@@ -40,7 +40,7 @@
 
 .banner-text hr {
   border-top: 5px dotted white;
-  widows: 50%;
+  width: 50%;
   margin: auto;
 }
 
@@ -59,7 +59,7 @@
 
 .social-links i {
   color: White;
-  font-size: 5en;
+  font-size: 5em;
   padding: 8px;
 }
 
@@ -73,6 +73,27 @@
   padding-top: 2em;
 }
 
-.contact-grind {
-  
+.contact-grid {
+  text-align: center;
+  justify-content: center;
+  width: 80%;
+  height: 550px;
+  background: white;
+  color: black;
+  border: 2px solid red;
+  margin-bottom: 20px;
+}
+
+.contact-grid h2 {
+  font-family: 'Anton', sans-serif;
+}
+
+.contact-grid p {
+  font-family: 'Oxygen', sans-serif;
+}
+
+.contact-grid hr {
+  border-top: 5px dotted black;
+  width: 50%;
+  margin: auto;
 }
